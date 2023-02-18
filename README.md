@@ -1,7 +1,8 @@
-##### Hi there 👋 I'm Dooshima Gbamwuan
- 
-I am a Data Scientist/Analyst with knowledge of Python, R, for data wrangling, data analysis, data visualization
-
+##### Hi there 👋 
+Data is all around us. its in the links you click, the videos you stream online, in the pictures, write ups and videos you upload.
+So much data is generated that businesses need people to turn those data into insights to make data driven and informe decisions as you can no longer base
+business decisions on intuition when you have data.
+That is what I do, I make data speak.
 <!--
 **didi-hub97/didi-hub97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
