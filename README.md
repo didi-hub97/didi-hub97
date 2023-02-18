@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my GitHub account 
+I am a Data Scientist with knowledge of Python, R, for data wrangling, data analysis, data visualization
 
 <!--
 **didi-hub97/didi-hub97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
